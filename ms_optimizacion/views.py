@@ -96,3 +96,4 @@ def optimizar_cruce(request):
             "mejor_cruce": mejor_vaca.id if mejor_vaca else None,
             "puntaje": puntaje_max
         })
+        
